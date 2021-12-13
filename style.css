@@ -80,6 +80,7 @@
 .carousel,
 .carousel-inner {
   height: 100%;
+  width: 100%;
 }
 
 .container-fluid {
@@ -92,10 +93,12 @@ li.nav-item {
 }
 .sign-up {
 color: black;
+justify-content: center;
 }
 .container-email {
     margin-left: 375px;
     padding-top: 20px;
+    justify-content: flex-end;
 }
 #banner {
     width: 80rem;
