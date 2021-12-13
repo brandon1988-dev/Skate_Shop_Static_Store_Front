@@ -1,0 +1,135 @@
+.navbar-brand {
+    margin-right: 20px;
+    transform: rotate(-6deg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.form-control {
+    border-radius: 20px;
+}
+.btn-primary {
+    border-radius: 20px;
+}
+.nav-link {
+    padding-left: 200px;
+    padding-right: 12px;
+}
+.card-body1 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+    color: cornsilk;
+    background-color: #516BEB;
+    height: 18rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.card-body2 {
+    text-align: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 20px;
+    color:cornsilk;
+    background-color: #516BEB;
+    height: 18rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.card-body3 {
+    text-align: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 20px;
+    color:cornsilk;
+    background-color: #516BEB;
+    height: 18rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.card-body4 {
+    text-align: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 20px;
+    color:cornsilk;
+    background-color: #516BEB;
+    height: 18rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.card-body5 {
+    image-rendering: optimizeQuality;
+    position: relative;
+
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon :hover {
+    color: white;
+}
+.carousel,
+.carousel-inner {
+  height: 100%;
+}
+
+.container-fluid {
+    padding-left: 150px;
+    padding-right: 40px;
+}
+li.nav-item {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.sign-up {
+color: black;
+}
+.container-email {
+    margin-left: 375px;
+    padding-top: 20px;
+}
+#banner {
+    width: 80rem;
+    display: flex;
+    position: relative;
+}
+#acctIcon {
+    color: white;
+    height: 2rem;
+    margin: 2;
+}
+#acctIcon:hover {
+    cursor: pointer;
+}
+#cart {
+    color: white;
+    height: 2rem;
+    margin: 0;
+}
+#cart:hover {
+    cursor: pointer;
+}
+#btn {
+    padding-left: 1.5rem;
+    position: absolute;
+    display: inline-flex;
+    text-align: center;   
+    background-origin: 10px;
+    height: 2.5rem;
+    width:8rem;
+    bottom: 5rem;
+    left: 5rem;
+}
+#footer {
+    margin-left: 40rem;
+}
+
